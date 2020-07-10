@@ -1,0 +1,8 @@
+name: EnderHoppers
+version: ${project.version}
+main: uk.cmdrnorthpaw.enderhoppers.EnderHoppers
+api-version: 1.16
+prefix: EnderHoppers
+authors: [CmdrNorthpaw]
+description: This plugin allows you to use hoppers in an ender chest
+website: https://github.com/CmdrNorthpaw
